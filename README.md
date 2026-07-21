@@ -1,4 +1,4 @@
-# Curso: Bootcamp Bradesco - GenAI, Dados & Cyber
+# Curso: Bootcamp Bradesco - GenAI, Dados & Cyber (Dio)
 ## Treinando uma IA de Aprendizagem
 **Descrição:** Criação de um miniguia NotebookLM utilizando fontes especificas referentes a impressão 3D
 
@@ -70,9 +70,6 @@ As fontes abaixo foram injetadas no NotebookLM para criar uma base de dados que 
 * **Fuzzy Skin (Pele de Pêssego):** Algoritmo presente nos fatiadores que causa uma microvibração no perímetro externo da impressão, gerando uma textura rugosa que esconde marcas de camada e entrega um acabamento premium.
 * **Costura (Z-Seam):** A marca visual deixada na peça no exato ponto onde o bico inicia e termina a impressão de uma camada perimetral. Pode ser aleatória, alinhada ou escondida em cantos agudos via slicer.
 * **CoreXY:** Cinemática avançada de impressoras (comum nas Bambu Labs) onde a mesa se move no eixo Z, e os motores X e Y ficam parados trabalhando em conjunto por correias, permitindo extrema velocidade sem perda de qualidade.
-
-♻️ Biblioteca de Prompts Reutilizáveis (Para Próximas Revisões)
-Para Otimização de Tempo de Impressão:
 
 ### ♻️ Biblioteca de Prompts Reutilizáveis (Para Próximas Revisões)
 
