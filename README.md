@@ -2,7 +2,7 @@
 ## Treinando uma IA de Aprendizagem
 **Descrição:** Criação de um miniguia NotebookLM utilizando fontes especificas referentes a impressão 3D
 
-[Link de acesso ao NotebooLM](https://bambulab.com/pt-br)
+[Link de acesso ao NotebooLM](https://notebooklm.google.com/notebook/58610274-4239-4b82-b8b4-571f736555c1)
 
 # 🧠 Caderno Temático: Domínio em Impressão 3D, Fatiamento e Engenharia de Materiais
 ### 🔬 1. Contexto e Objetivos
